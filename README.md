@@ -1,6 +1,7 @@
-![Ou![Output2 (CSS Animation)](https://github.com/user-attachments/assets/607ed010-ff64-4ef3-a651-52d68802e727)
-tput1 (CSS Animation)](https://github.com/user-attachments/assets/1b2f9084-8392-40f7-9666-343103f58b21)
 
+![Output1 (CSS Animation)](https://github.com/user-attachments/assets/a835c62b-0a37-46c3-bb94-4791064bf5b2)
+
+![Output2 (CSS Animation)](https://github.com/user-attachments/assets/feb5181c-ccab-4bbe-8813-f685c200d3fa)
 
 # Getting Started with Create React App
 
